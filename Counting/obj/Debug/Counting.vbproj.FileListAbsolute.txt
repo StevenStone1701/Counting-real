@@ -1,0 +1,11 @@
+C:\Users\Gebruiker\Documents\Jochem\projects\Counting\Counting\obj\Debug\Counting.Resources.resources
+C:\Users\Gebruiker\Documents\Jochem\projects\Counting\Counting\obj\Debug\Counting.vbproj.GenerateResource.Cache
+C:\Users\Gebruiker\Documents\Jochem\projects\Counting\Counting\obj\Debug\Counting.vbproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Jochem\projects\Counting\Counting\bin\Debug\Counting.exe.config
+C:\Users\Gebruiker\Documents\Jochem\projects\Counting\Counting\bin\Debug\Counting.exe
+C:\Users\Gebruiker\Documents\Jochem\projects\Counting\Counting\bin\Debug\Counting.pdb
+C:\Users\Gebruiker\Documents\Jochem\projects\Counting\Counting\bin\Debug\Counting.xml
+C:\Users\Gebruiker\Documents\Jochem\projects\Counting\Counting\obj\Debug\Counting.exe
+C:\Users\Gebruiker\Documents\Jochem\projects\Counting\Counting\obj\Debug\Counting.xml
+C:\Users\Gebruiker\Documents\Jochem\projects\Counting\Counting\obj\Debug\Counting.pdb
+C:\Users\Gebruiker\Documents\Jochem\projects\Counting\Counting\obj\Debug\Counting.vbprojResolveAssemblyReference.cache
